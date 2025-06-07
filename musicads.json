@@ -20,7 +20,7 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
@@ -41,10 +41,10 @@
     "showClose": true,
     "adList": [
       {
-        "preview": "https://lh3.googleusercontent.com/Z-5iIKQ6vfJfauCq1_0yV6ol-qEK6KyRWmRSMYoKYqGCqfMFJJIsSgVyoJiukqnQX4yJRxoTEHxwZ4mkbfx6k-rVQsoNMx3kdCk",
+        "preview": "https://www.wakatsera.com/wp-content/uploads/2021/05/Bob-Marley-toujours-un-bon-vendeur.jpg",
         "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
-        "button_url": "https://github.com/saidmotya/"
+        "button_url": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
       }
     ]
   },

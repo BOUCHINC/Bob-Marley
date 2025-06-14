@@ -38,7 +38,7 @@
   
   "PopAdSetting": {
     "showPop"  : true,
-    "showClose": false,
+    "showClose": true,
     "adList": [
       {
         "preview": "https://www.wakatsera.com/wp-content/uploads/2021/05/Bob-Marley-toujours-un-bon-vendeur.jpg",

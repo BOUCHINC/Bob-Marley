@@ -41,26 +41,26 @@
     "showClose": true,
     "adList": [
       {
-        "preview": "https://www.wakatsera.com/wp-content/uploads/2021/05/Bob-Marley-toujours-un-bon-vendeur.jpg",
+        "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2rc7IF6Voum-7X1ZvnI-8tlM2NeQSXJBMg-m5gF6LVS7O_q7kEU3jPnvb0LsWjBgwZk&usqp=CAU",
         "title": "Good new ! we added new app check it !",
         "button_title": "Install now",
-        "button_url": "https://play.google.com/store/apps/details?id=com.bob.marley1.hugetech"
+        "button_url": "https://play.google.com/store/apps/details?id=com.leo.rojas2.hugetech"
       }
     ]
   },
   
   "AppsPromote": [
     {
-      "name": "Bob Marley Songs - Without Int",
-      "packageName": "com.bob.marley1.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/d9rMA8e4ipIWJxMeUNySF-J2mmHXCVJ1Q3dJNIlFm8wYiSeaRyBJPLT1LzaQlujTL44=w240-h480-rw",
-      "download": "+50K"
+      "name": "Leo Rojas - Offline",
+      "packageName": "com.leo.rojas2.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/rv6JZWh2w58SKiS5XtyaHafvU-mdQWcVh4oor-oinzD_gWyo9lx7im4-0xaC6qLaWA=w526-h296-rw",
+      "download": "+500K"
     },
     {
-      "name": "حسين الصادق بدون أنترنت",
-      "packageName": "com.hussein.alsadiq.hugetech",
-      "icon": "https://play-lh.googleusercontent.com/b5weSxFKDxMyyU72XCU7vicVHHDdWft_INaFfxPNZ996C8INowpan_vakbALj5i224Y=w240-h480-rw",
-      "download": "+1 Million"
+      "name": "Shatta Wale Offline",
+      "packageName": "com.home.scapes2.frastudio",
+      "icon": "https://play-lh.googleusercontent.com/C2Bq_rOd_uUqhWg6yTFnkf8fd0thHCmjR0PJ9ra0ztusD5GAckBDMYz-i42PNVw2SlI=w526-h296-rw",
+      "download": "+500K"
     }
   ]
   

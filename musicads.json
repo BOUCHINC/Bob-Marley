@@ -29,9 +29,9 @@
         "AdMobNative"         : "ca-app-pub-4005010845730517/7151175160",
         "AdMobOpenAd"         : "ca-app-pub-4005010845730517/6972061826",
         
-        "FacebookBanner"      : "IMG_16_9_APP_INSTALL#235742435126110_241193504581003",
-        "FacebookInterstitial": "IMG_16_9_APP_INSTALL#235742435126110_241196944580659",
-        "FacebookNative"      : "IMG_16_9_APP_INSTALL#235742435126110_241196147914072"
+        "FacebookBanner"      : "235742435126110_241193504581003",
+        "FacebookInterstitial": "235742435126110_241196944580659",
+        "FacebookNative"      : "235742435126110_241196147914072"
 
       }
     },

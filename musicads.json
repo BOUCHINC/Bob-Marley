@@ -12,22 +12,22 @@
         "⚠️Warning: Facebook does not support OpenAd."
       ],
       
-      "BannerNetwork"      : "facebook",
-      "InterstitialNetwork": "facebook",
-      "NativeNetwork"      : "facebook",
+      "BannerNetwork"      : "admob",
+      "InterstitialNetwork": "admob",
+      "NativeNetwork"      : "admob",
       
       "OpenAdNetwork"      : "admob",
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 5,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "ca-app-pub-4005010845730517/6033534612",
-        "AdMobInterstitial"   : "ca-app-pub-4005010845730517/6285666119",
-        "AdMobNative"         : "ca-app-pub-4005010845730517/7151175160",
-        "AdMobOpenAd"         : "ca-app-pub-4005010845730517/6972061826",
+        "AdMobBanner"         : "ca-app-pub-3937745337775830/6650301817",
+        "AdMobInterstitial"   : "ca-app-pub-3937745337775830/6023615858",
+        "AdMobNative"         : "ca-app-pub-3937745337775830/8893321776",
+        "AdMobOpenAd"         : "ca-app-pub-3937745337775830/4278825271",
         
         "FacebookBanner"      : "235742435126110_241193504581003",
         "FacebookInterstitial": "235742435126110_241196944580659",
@@ -38,7 +38,7 @@
   
   "PopAdSetting": {
     "showPop"  : false,
-    "showClose": true,
+    "showClose": false,
     "adList": [
       {
         "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2rc7IF6Voum-7X1ZvnI-8tlM2NeQSXJBMg-m5gF6LVS7O_q7kEU3jPnvb0LsWjBgwZk&usqp=CAU",

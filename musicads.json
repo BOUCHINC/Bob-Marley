@@ -37,8 +37,8 @@
     },
   
   "PopAdSetting": {
-    "showPop"  : true,
-    "showClose": false,
+    "showPop"  : false,
+    "showClose": true,
     "adList": [
       {
         "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2rc7IF6Voum-7X1ZvnI-8tlM2NeQSXJBMg-m5gF6LVS7O_q7kEU3jPnvb0LsWjBgwZk&usqp=CAU",

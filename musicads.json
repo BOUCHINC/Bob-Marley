@@ -1,6 +1,6 @@
 {
   "AppRedirect": {
-    "status"     : false,
+    "status"     : true,
     "redirectURL": "https://play.google.com/store/apps/details?id=com.leo.rojas2.hugetech&hl=fr"
   },
   
@@ -38,7 +38,7 @@
   
   "PopAdSetting": {
     "showPop"  : false,
-    "showClose": true,
+    "showClose": false,
     "adList": [
       {
         "preview": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz2rc7IF6Voum-7X1ZvnI-8tlM2NeQSXJBMg-m5gF6LVS7O_q7kEU3jPnvb0LsWjBgwZk&usqp=CAU",
